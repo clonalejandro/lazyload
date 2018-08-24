@@ -14,7 +14,7 @@
  * All rights reserved for clonalejandro ©lazyload 2018 / 2019
  */
  
- img[src=""] {
+img[src=""] {
     filter: blur(10px)
 }
 
