@@ -3,6 +3,12 @@ a lazyload in javascript and css
 
 ## How to use
 
+### Set your images like this 
+
+```html
+<img src="" data-src="imageYouWantToLoad">
+```
+
 ### Include files
 
 ```html
