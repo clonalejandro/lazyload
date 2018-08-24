@@ -33,14 +33,6 @@ class LazyLoad {
 
     /** REST **/
 
-    /**
-     * This function start the lazyload
-     */
-    start(){
-
-    }
-
-
     /** 
      * This function initialize the images var
      */
