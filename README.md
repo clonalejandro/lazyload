@@ -1,5 +1,5 @@
 # lazyload
-a lazyload in javascript and css
+A lazyload in javascript and css
 
 ## How to use
 
