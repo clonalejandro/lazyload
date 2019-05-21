@@ -19,5 +19,6 @@ A lazyload in javascript and css
 ### Instance lazyload
 
 ```js
-new LazyLoad();
+const timeout = 250;
+new LazyLoad(timeout);
 ```
